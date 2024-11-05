@@ -1,20 +1,27 @@
-# Welcome to your Expo app 👋
+# Bottom Sheet For React Native 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
-1. Install dependencies
+1. Open project
 
    ```bash
-   npm install
+    cd BSheet 
    ```
-
-2. Start the app
+   
+2. Installer Node Modules package
 
    ```bash
-    npx expo start
+    npm install 
    ```
+   
+3. Install react-native-raw-bottom-sheet
+
+   ```bash
+   npm i react-native-raw-bottom-sheet
+   ```
+
+
 
 In the output, you'll find options to open the app in a
 
